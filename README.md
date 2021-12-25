@@ -1,1 +1,1 @@
-# mehaproject
+# dictionary-app
